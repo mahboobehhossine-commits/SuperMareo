@@ -1,4 +1,4 @@
 class Dev:
     def my_function:
-        _self_():
+        _init_(self):
             pass
