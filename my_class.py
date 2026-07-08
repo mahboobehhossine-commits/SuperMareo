@@ -1,2 +1,4 @@
-class my_class:
-    pass
+class Dev:
+    def my_function:
+        _self_():
+            pass
